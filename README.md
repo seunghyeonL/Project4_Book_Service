@@ -2,4 +2,5 @@
 
 ## 클래스 다이어그램
 ---
-![image](https://github.com/user-attachments/assets/04d7330d-0a71-42bd-ad91-626e9fcb38d4)
+![image](https://github.com/user-attachments/assets/0b6432f9-c6ec-469c-95a7-b58c2418ca8e)
+
