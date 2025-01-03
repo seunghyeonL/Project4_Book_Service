@@ -1,0 +1,44 @@
+# visual studio 설정 폴더
+.vs/
+
+# 빌드 설정
+Makefile
+
+# 빌드 출력
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugFinal/
+[Dd]istFinal/
+Release/
+x64/
+x86/
+bin/
+obj/
+build/
+
+# 사용자 설정 파일
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.clang-format
+
+# NuGet 패키지 폴더
+packages/
+.nuget/
+
+# 임시 파일
+*.log
+*.vspscc
+*.vssscc
+
+# Windows 시스템 파일
+Thumbs.db
+Desktop.ini
+
+# MAC 파일
+.DS_Store
